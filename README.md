@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
+[![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
 
 
 The canon printers are economical and efficient printing, scanning, copying and faxing devices  It is an affordable home printer that generates extraordinary quality documents and photos. To make full use of your Printing facilities, download and install the full-feature driver available on the canon website: [ij.start.canon](https://github.com/ijstartcan0nij) and learn the steps to download, install and setup canon printer software on any device.
