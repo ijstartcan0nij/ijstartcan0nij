@@ -1,4 +1,4 @@
-# ij.start.canon
+# Ij.start.canon
 
 [![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com/)
 
